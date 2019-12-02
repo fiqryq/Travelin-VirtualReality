@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Regol" size="100.000000 173.275864" />
+    <ImageTarget name="kawput" size="100.000000 173.775223" />
+    <ImageTarget name="baru" size="100.000000 59.033615" />
+    <ImageTarget name="mesjid" size="100.000000 172.779373" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b983fea553480644285bc12cb0147ff5
+  - enabled: 1
+    path: Assets/Scenes/MenuAr.unity
+    guid: c435140f4cb26134787c6767302ca480
+  - enabled: 1
+    path: Assets/Scenes/MenuVr.unity
+    guid: cddc31393490bbb4ea3b56008b8b7e75
+  - enabled: 1
+    path: Assets/Scenes/Virtual Reality.unity
+    guid: fba700f3ac0157541a8fda4272c7f827
+  - enabled: 1
+    path: Assets/Scenes/Arcamera.unity
+    guid: a2f2f11c897f038498c49b8c95b08d63
+  - enabled: 1
+    path: Assets/Scenes/Tentang.unity
+    guid: 00f97526c5bae43478dfadd0576c8ff2
+  - enabled: 1
+    path: Assets/Scenes/Bantuan.unity
+    guid: 6b5b36e4e52e700489f85385d5d592b8
+  - enabled: 1
+    path: Assets/Scenes/Virual room.unity
+    guid: 92314d5c1970e3446b33fc9f81c044ba
+  - enabled: 1
+    path: Assets/Scenes/Virtual room kawput.unity
+    guid: 791c245b4bd7c0c4d93b8d07a6ff31c5
+  - enabled: 1
+    path: Assets/Scenes/kwh area 1.unity
+    guid: 855029e2a17b1184e9897726553dc624
+  - enabled: 1
+    path: Assets/Scenes/kwh area 2.unity
+    guid: 2af6edf74c178f6469bd04b6b31cecc2
+  - enabled: 1
+    path: Assets/Scenes/kwh area 3.unity
+    guid: 9f6633c28e7f929488f693296f5994c7
+  - enabled: 1
+    path: Assets/Scenes/vr room regl.unity
+    guid: 35b61a2f4edd880468f1cf455f929037
+  - enabled: 1
+    path: Assets/Scenes/Rgl 1.unity
+    guid: 1f389143a86f6c841940d576e266f130
+  - enabled: 1
+    path: Assets/Scenes/Rgl 2.unity
+    guid: cdbfe8b28af626b47806e286d1e69b7b
+  - enabled: 1
+    path: Assets/Scenes/Rgl 3.unity
+    guid: 5b246b52fa770fd4fa0c112b0be78483
+  - enabled: 1
+    path: Assets/Scenes/vr room bdg.unity
+    guid: 1855f4cdb7db80b44b6fb84ee14c2201
+  - enabled: 1
+    path: Assets/Scenes/bdg 1.unity
+    guid: 91f6dd3d5d521024783e9c1ced8455b2
+  - enabled: 1
+    path: Assets/Scenes/bdg 2.unity
+    guid: 4621fc8a6da81584e9a6651bb10c3a02
+  - enabled: 1
+    path: Assets/Scenes/bdg 3.unity
+    guid: 3b9dfb52ba2dd014ead4edf3a7bf8596
+  m_configObjects: {}
